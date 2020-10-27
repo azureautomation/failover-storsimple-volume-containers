@@ -1,0 +1,20 @@
+{
+    "Author": "Sujay Talasila [MSFT]",
+    "ContentSize": 28185,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/failover-storsimple-volume-containers/master/Failover-StorSimple-Volume-Containers.ps1",
+    "DownloadCount": 1455,
+    "Id": "Failover-StorSimple-Volume-fd7ef712",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 373,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-8-25T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook performs a failover of the StorSimple volume containers in the context of Azure Site Recovery(ASR) recovery plan.",
+    "Title": "Failover StorSimple Volume Containers",
+    "UpdatedDate": "2017-10-4T00:00:00",
+    "Url": "https://github.com/azureautomation/failover-storsimple-volume-containers",
+    "UserTags": "Disaster Recovery, Azure Site Recovery, StorSimple"
+}
